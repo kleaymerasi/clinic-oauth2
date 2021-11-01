@@ -1,0 +1,44 @@
+{
+  "properties": [
+    {
+      "name": "user.oauth.clientId",
+      "type": "java.lang.String",
+      "description": "Description for user.oauth.clientId."
+    },
+    {
+      "name": "user.oauth.clientSecret",
+      "type": "java.lang.String",
+      "description": "Description for user.oauth.clientSecret."
+    },
+    {
+      "name": "user.oauth.redirectUris",
+      "type": "java.lang.String",
+      "description": "Description for user.oauth.redirectUris."
+    },
+    {
+      "name": "user.oauth.user.username",
+      "type": "java.lang.String",
+      "description": "Description for user.oauth.user.username."
+    },
+    {
+      "name": "user.oauth.user.password",
+      "type": "java.lang.String",
+      "description": "Description for user.oauth.user.password."
+    },
+    {
+      "name": "user.oauth.accessTokenValidity",
+      "type": "java.lang.String",
+      "description": "Description for user.oauth.accessTokenValidity."
+    },
+    {
+      "name": "user.oauth.refreshTokenValidity",
+      "type": "java.lang.String",
+      "description": "Description for user.oauth.refreshTokenValidity."
+    },
+    {
+      "name": "security.oauth2.resource.filter-order",
+      "type": "java.lang.String",
+      "description": "Description for security.oauth2.resource.filter-order."
+    }
+
+  ] }
